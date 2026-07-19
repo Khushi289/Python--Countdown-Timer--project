@@ -8,7 +8,7 @@ A simple Python countdown timer with a 2-second delay that ends with a launch me
 - rints a celebration message
   
 
-# Technologies used
+# Built with
 
 - pyhton 3
 - For Loop– Performs the countdown.
