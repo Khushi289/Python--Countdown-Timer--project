@@ -11,4 +11,9 @@ A simple Python countdown timer with a 2-second delay that ends with a launch me
 # Technologies used
 
 - pyhton 3
-- in built "time" module 
+- For Loop– Performs the countdown.
+- `range()` Function– Generates the countdown sequence.
+- `time` Module– Adds a delay between each countdown step.
+- `time.sleep()`– Pauses the program for 2 seconds.
+- Variables– Stores the countdown value.
+- `input()` and `print()`– Handles user input and displays output.
